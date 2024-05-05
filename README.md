@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://dsc.gg/abyssbypasser"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4700F7&random=false&width=435&lines=Winning+Smile+On+TOP.;Friend+Seek+Cat.;Owner+Moroxi.;What+you+wana+then+join+Discord+with+me.;Me+chill+with+cafe.;All+love+Seek+Cat+because+its+fun..." alt="Typing SVG" /></a>
 
-<h3 align="center">Hey there, I'm <a href="https://dsc.gg/abyssbypasser">Winnig Smile</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://dsc.gg/abyssbypasser">Winning Smile</a></h3>
 <h5 align="center">Current nothing ...i</h5>
  
 ## ⬛

@@ -12,7 +12,6 @@
   <table>
     <tr>
       <th>Profile Views</th>
-      <th>Total Count</th>
     </tr>
     <tr>
       <td>
